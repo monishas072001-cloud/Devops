@@ -1,3 +1,3 @@
 # Devops
 Sample github commands
-Fiest line of the Readme file
+First line of the Readme file
